@@ -1,14 +1,12 @@
 # work_site_django
-# Members:
 
+# Members:
 - 1152047 Fredy Gustavo Peñaranda 
     **Usuario En GitHub:** [Frd1029](https://github.com/Frd1029)
 - 1151860 Luis Edaurdo Soto García 
     **Usuario En GitHub:** [lesg1151860](https://github.com/lesg1151860)
 
 First, we enter the folder where our remote repository is located
-
-![First Step](C:\Users\luiss\OneDrive\Imágenes\Capturas de pantalla\Caps Repo\1.png)
 
 After being located in our repository, we enter Python mode by typing the command "py" to verify that we have Python installed. Exit the Pyhton environment with the command "exit()".
 
