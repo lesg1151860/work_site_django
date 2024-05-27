@@ -1,11 +1,15 @@
 # work_site_django
 
-Integrantes: 
+# Members:
 
-Luis Eduardo Soto García - 1151860 - lesg1151860
-Jezael Ropero - 
-Freddy -
+- 1152047 Fredy Gustavo Peñaranda 
+    **Usuario En GitHub:** [Frd1029](https://github.com/Frd1029)
+- 1151860 Luis Edaurdo Soto García 
+    **Usuario En GitHub:** [lesg1151860](https://github.com/lesg1151860)
+- 1151920 Jezael Ropero 
+    **Usuario En GitHub:** [omegablacks](https://github.com/omegablacks)
 
+# Steps by Install Django:}
 
 First, we enter the folder where our remote repository is located
 
